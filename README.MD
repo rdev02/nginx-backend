@@ -1,0 +1,1 @@
+nginx docker config for php-fpm
